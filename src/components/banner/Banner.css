@@ -1,0 +1,20 @@
+.banner {
+    display: inline-block;
+    background-image: url('../../images/background.jpg') !important;
+    height: 370px;
+    margin: 0 !important;
+    padding: 0 !important;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    vertical-align:center;
+    width: 95%;
+    
+  }
+  
+  @media (min-width: 576px) {
+    .banner {
+      font-size: calc(10px + 14 * (100vw - 320px) / 800);
+    
+    }
+  }

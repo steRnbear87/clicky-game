@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "name": "eric",
+    "image": "./images/cartman.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "butters",
+    "image": "./images/butters.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "chef",
+    "image": "./images/chef.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "clyde",
+    "image": "./images/clyde.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "craig",
+    "image": "./images/craig.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "heidi",
+    "image": "./images/heidi.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "jimmy",
+    "image": "./images/jimmy.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "kenny",
+    "image": "./images/kenny.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "kyle",
+    "image": "./images/kyle.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "stan",
+    "image": "./images/stan.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "token",
+    "image": "./images/token.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "wendy",
+    "image": "./images/wendy.jpg",
+    "count": 0
+  }
+]
